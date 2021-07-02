@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BookFinderAPI.Data;
 using BookFinderAPI.Models;
+using BookFinderAPI.Attributes;
 
 namespace BookFinderAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiKey] //Custom Attribute
     public class BookFinderModelsController : ControllerBase
     {
         private readonly BookFinderAPIContext _context;
