@@ -127,3 +127,4 @@ W:\__WORK__\NewWave Technologies (India)\_Training_\Code\API & APIM\API\BookFind
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\API & APIM\API\BookFinderAPI\BookFinderAPI\obj\Debug\net5.0\ref\BookFinderAPI.dll
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\API & APIM\API\BookFinderAPI\BookFinderAPI\obj\Debug\net5.0\BookFinderAPI.pdb
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\API & APIM\API\BookFinderAPI\BookFinderAPI\obj\Debug\net5.0\BookFinderAPI.genruntimeconfig.cache
+W:\__WORK__\NewWave Technologies (India)\_Training_\Code\API & APIM\API\BookFinderAPI\BookFinderAPI\obj\Debug\net5.0\BookFinderAPI.csprojAssemblyReference.cache
