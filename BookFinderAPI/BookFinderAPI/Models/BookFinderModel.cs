@@ -14,5 +14,8 @@ namespace BookFinderAPI.Models
         public int Id { get; set; }
         public string bookTitle { get; set; }
         public string author { get; set; }
+        public string genre { get; set; }
+        public string publisher { get; set; }
+        public DateTime dateOfPublication { get; set; }
     }
 }
